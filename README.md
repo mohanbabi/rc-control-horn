@@ -1,6 +1,7 @@
 # RC Plane Control Horn
 
-This is a 3D printable control horn designed for RC trainer planes.
+A 3D printable control horn designed for small RC trainer aircraft.  
+This repository includes STL for 3D printing, STEP file for CAD compatibility, and SpaceClaim source files for modification.
 
 ## Features
 
